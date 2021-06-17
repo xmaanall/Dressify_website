@@ -24,7 +24,7 @@
 
 
 ## Back-end Development:
-* [Dressify-Backend](https://git.generalassemb.ly/xmaanall/Project-4-AUTH)
+* [Dressify-Backend](https://github.com/xmaanall/Dressify_website/tree/BackEnd)
 
 ---
 
