@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: transparent url(https://www.fendi.com/it/ck-static/vertigo_background_sx.svg) 0% 0% repeat padding-box;
+}
+
+
+html, body {
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.colored-toast.swal2-icon-success {
+  background-color: #a5dc86 !important;
+}
+
+.colored-toast.swal2-icon-error {
+  background-color: #f27474 !important;
+}
+
+.colored-toast.swal2-icon-warning {
+  background-color: #f8bb86 !important;
+}
+
+.colored-toast.swal2-icon-info {
+  background-color: #3fc3ee !important;
+}
+
+.colored-toast.swal2-icon-question {
+  background-color: #87adbd !important;
+}
+
+.colored-toast .swal2-title {
+  color: white;
+}
+
+.colored-toast .swal2-close {
+  color: white;
+}
+
+.colored-toast .swal2-content {
+  color: white;
+}
+
+
+
+.Logo {
+  background-image: url(./assets/logo.png);
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #A87A64 !important;
+  border-color: #A87A64 !important;
+}
+
+.btn-primary:hover {
+  color: #C1536B !important;
+  background-color: #fff !important;
+  border: #C1536B 1px solid!important;
+}
+
+.card-title {
+  color: #a87a63 !important; 
+  font-weight: bold !important;
+}
+
+.item-price {
+  color: #c1536b;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: system-ui;
+}
+
+.carousel-caption {
+  bottom: 120px !important;
+}
+
+
+.carousel-caption h3 {
+  font-size: 4.4rem;
+}
+/* h2 {
+  border-bottom: 1px solid #d9d9d9;
+    margin-bottom: 20px;
+}
+
+h2:after {
+    content: "";
+    width: 115px;
+    height: 4px;
+    background-color: #c1536b;
+    position: absolute;
+    bottom: -2px;
+    right: 0;
+    transition: all .3s ease-out;
+} */
+
+
+
+

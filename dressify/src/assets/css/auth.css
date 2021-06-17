@@ -1,0 +1,142 @@
+
+
+a:hover {
+    color: #c1536b;
+    font-weight: bold;
+}
+.card-auth {
+      margin: 20px;
+      border-radius: 15px;
+}
+
+.card-post {
+    margin: 23px;
+    border-radius: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 9px;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+.auth-img {
+      width: 100%;
+}
+
+.post-details {
+    text-align: left;  
+    line-height: 2rem;
+}
+
+.post-title {
+    text-align: left;
+    padding-top: 2.2rem;
+    font-weight: bold;
+}
+
+
+.post-img {
+    width: 87%;
+    float: left;
+}
+
+.retailer-logo {
+    border-radius: 50%;
+    margin: 2.2rem;
+    width: 200px;
+   height: 200px;
+}
+
+.form-group {
+      margin-bottom: 1rem;
+      padding-bottom: 12px;
+      padding-left: 30px;
+      padding-right: 30px;
+      text-align: left;
+      color: #a87a63;
+      font-weight: bold;
+  }
+
+
+ .button-auth {
+     width: 90%;
+ }
+
+
+ .auth-title {
+      color: #c1536b;
+      padding: 12px;
+      font-size: 33px;
+      font-weight: bold;
+      letter-spacing: 2px;
+      padding-bottom: 7px;
+      text-align: center;
+  }
+
+  span {
+      font-size: 18px;
+      color: #000;
+  }
+
+
+  /* .navbar, footer {
+        display: none;
+  } */
+
+  .text-right,  .text-right a{
+      padding-top: 12px;
+      text-align: right!important;
+      color: #000;
+  }
+
+  button {
+      margin-left: 15px;
+      
+  }
+
+  .text-left {
+        float: left;
+      margin-top: -63px;
+      padding: 25px;
+    text-align: right!important;
+    color: #000;
+
+  }
+
+  .text-left a {
+  color: #000;
+
+}
+
+/* .nav-item:hover a {
+    color: #ffc8d4 !important;
+    transition: all 0.3s ease-in-out 0s;
+} */
+
+.dropdown-item, .dropdown-menu {
+    transition: all 0.3s ease-in-out 0s;
+}
+
+
+  @media all and (max-width: 991px) {
+ 
+      .card-auth {
+            margin: 0;
+            margin-top: 20px !important;
+            border-radius: 15px;
+        }
+
+        .card-post {
+            margin: 0;
+            border-radius: 0;
+            padding-right: 0;
+            padding-left: 0;
+            margin-top: 30px;
+            border-radius: 9px;
+        }
+
+  }

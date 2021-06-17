@@ -1,0 +1,50 @@
+
+
+.items-title {
+      margin-bottom: 8px;
+      font-size: 30px;
+      text-align: center;
+      font-weight: bold;
+  }
+
+  .b-widget--background {
+      background-color: #f3f3f3;
+      padding-top: 3rem;
+  }
+
+  .b-owl_carousel-image {
+      display: inline-block;
+      width: 150px;
+     
+  }
+
+  .carousel-control-prev-icon, .carousel-control-next, .carousel-indicators {
+        display: none;
+  }
+
+  .b-products-launch_image {
+      width: 100%;
+  }
+
+
+  @media all and (max-width: 991px) { 
+    .items-title {
+      font-size: 28px;
+    }
+
+    .card {
+        width: 100% !important;
+       margin-bottom: 1.5rem;
+    }
+
+    .carousel-caption p {
+      margin-bottom: -8rem !important; 
+      font-size: 9px;
+    }
+
+    .carousel-caption h3 {
+        font-size: 33px;
+      }
+
+    }
+    
